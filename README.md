@@ -13,7 +13,7 @@ In empty regions (Laplace)
 In regions with charge or heat sources (Poisson)
 
 These equations help engineers in DRDO, BEL and ISRO design reliable and efficient defence systems by predicting field behavior well before hardware is built.
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/889b3635-914b-415c-8202-7ee060b71038" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/889b3635-914b-415c-8202-7ee060b71038" />
 
 # Theoretical Overview
 ## Laplace’s Equation
@@ -63,7 +63,7 @@ Design insulation between electronic modules
 
 This ensures accurate target locking even in high-temperature ionized environments.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/96035c51-5584-4948-ac82-7ed2c5cd961e" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/96035c51-5584-4948-ac82-7ed2c5cd961e" />
 
 ## b. Stealth Technology and Radar Cross-Section (RCS) Reduction
 
@@ -78,7 +78,7 @@ Optimize internal antenna placement to minimize leakage
 
 The design philosophy of aircraft like AMCA relies on potential-field simulations to maintain low RCS.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b222b0d2-eb38-4505-a7b5-5552a095b045" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/b222b0d2-eb38-4505-a7b5-5552a095b045" />
 
 
 ## c. Electromagnetic Shielding and Hardening
@@ -97,7 +97,7 @@ Safe zones for critical electronics
 
 Thus, systems remain functional during electronic warfare attacks.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7ba715e0-cc89-4b16-8ed1-eb5e9761c3bb" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/7ba715e0-cc89-4b16-8ed1-eb5e9761c3bb" />
 
 ## d. Thermal Camouflage and Infrared Signature Reduction
 
@@ -117,7 +117,7 @@ Cooling of weapon electronics
 
 Heat distribution modelling helps keep military assets invisible to enemy thermal cameras.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3eece301-5bb8-477d-85be-ae2fee03584a" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/3eece301-5bb8-477d-85be-ae2fee03584a" />
 
 
 ## e. Antenna Design for Secure Military Communication
@@ -142,7 +142,7 @@ Battlefield radio networks like ASCON
 
 This ensures continuous communication even under jamming.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/42681b62-e585-49b6-8a73-d1d67e9433bf" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/42681b62-e585-49b6-8a73-d1d67e9433bf" />
 
 ## f. Plasma Modelling and Hypersonic Flight Communication
 
@@ -160,7 +160,7 @@ Reduce signal absorption during flight
 
 This is crucial for projects like DRDO HSTDV and future hypersonic missiles.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8139a75d-6aca-4316-9b52-79ead6894264" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/8139a75d-6aca-4316-9b52-79ead6894264" />
 
 ## g. Ground Sensors, GPR and Mine Detection
 
@@ -176,7 +176,7 @@ Improve detection algorithms
 
 Used in anti-IED operations and border security.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b22101fe-2149-4e44-ad7c-4c1170155740" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/b22101fe-2149-4e44-ad7c-4c1170155740" />
 
 
 ## h. Radome and Antenna Housing Design
@@ -192,7 +192,7 @@ Reflection minimization
 
 This ensures radars perform efficiently in all weather conditions.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d6b14c2e-0389-4146-b8af-6312b2299ae0" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/d6b14c2e-0389-4146-b8af-6312b2299ae0" />
 
 # Future Scope 
 
@@ -207,8 +207,8 @@ This ensures radars perform efficiently in all weather conditions.
 - Hybrid thermal-electromagnetic modelling for multi-sensor platforms
 
 - Ultra-efficient satellite-to-drone power transmission fields
-
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1201cb63-d3d0-40e5-8106-d3f3e21afdf6" />
+  
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/f6708293-ee94-448f-81cf-8d6063228689" />
 
 # Conclusion
 
